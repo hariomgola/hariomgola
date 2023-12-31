@@ -16,7 +16,7 @@ I am also an open-source enthusiat and maintainer. i learned a lot from the open
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_java.png"></code>
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_react.png"></code>
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_angular.png"></code>
-<code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_node.png"></code>
+<code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_nodejs.png"></code>
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_graphql.png"></code>
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_mysql.png"></code>
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_aws.png"></code>
