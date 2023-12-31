@@ -23,3 +23,20 @@ I am also an open-source enthusiat and maintainer. i learned a lot from the open
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_azure.png"></code>
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_firebase.png"></code>
 <code><img height="25" src="https://github.com/hariomgola/hariomgola/blob/81ea2f890f295d8f9770eb3015d1b8e7450f6caa/img_source/_git.png"></code>
+
+**Project and Language Breakdown**
+
+```text
+🕑︎ Time Zone: Asia/India
+
+💬 Programming Languages:
+JavaScript               1200 hours          █████████████████████░░░░
+TypeScript               1100 hours          ███████████████████░░░░░░
+Java                     290 hours           █████░░░░░░░░░░░░░░░░░░░░
+Angular                  1600 hours          █████████████████████░░░░
+React                    1800 hours          ████████████████████░░░░░
+
+🐱‍💻 Projects:
+nodejs-api               72 hours            ███████████████████░░░░░░
+RobotApplication         18 hours            ████████░░░░░░░░░░░░░░░░░
+```
